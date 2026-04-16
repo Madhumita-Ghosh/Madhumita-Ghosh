@@ -1,5 +1,12 @@
-## Hi there 👋
+# An introduction
 
+Greetings,
+
+I am currently looking for an opportunity to contribute in the arena of software technical writing.
+
+An early career position would be a suitable fit.
+
+Thank you.
 <!--
 **Madhumita-Ghosh/Madhumita-Ghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
