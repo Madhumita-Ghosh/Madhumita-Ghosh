@@ -2,7 +2,7 @@
 
 Greetings,
 
-I am currently looking for an opportunity to contribute in the arena of software technical writing.
+I am currently looking for an opportunity to contribute in the arena of engineering technical writing.
 
 An early career position would be a suitable fit.
 
